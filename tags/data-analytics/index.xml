@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analytics on Aarthi Shankar - Portfolio</title>
+    <link>https://aarthishankar.github.io/tags/data-analytics/</link>
+    <description>Recent content in Data Analytics on Aarthi Shankar - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aarthishankar.github.io/tags/data-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Analysis and Visualisation of Facebook user data</title>
+      <link>https://aarthishankar.github.io/projects/creations/analysis-and-visualisation-of-facebook-user-data/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/analysis-and-visualisation-of-facebook-user-data/</guid>
+      <description>Created visualization using power BI and built dashboards to effectively tell a story about the number of active Facebook users and its trend.</description>
+    </item>
+    
+    <item>
+      <title>Breast Cancer Risk Prediction</title>
+      <link>https://aarthishankar.github.io/projects/creations/breast-cancer-risk-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/breast-cancer-risk-prediction/</guid>
+      <description>Using a labelled data set (Wisconsin breast cancer diagnostic data) of cancer patients and the various attributes of a cell such as radius, texture, area, perimeter etc, a model was trained to predict the possibility of a cell being cancerous using Logistic Regression and K-fold cross validation.</description>
+    </item>
+    
+    <item>
+      <title>Crime Rate prediction using K-Means</title>
+      <link>https://aarthishankar.github.io/projects/creations/crime-rate-prediction-using-k-means/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/crime-rate-prediction-using-k-means/</guid>
+      <description>Analysed the San Francisco crime database using the K-Means clustering algorithm, to predict the most crime-prone neighbourhoods.</description>
+    </item>
+    
+    <item>
+      <title>Toxic Comments Classifier</title>
+      <link>https://aarthishankar.github.io/projects/creations/toxic-comments-classifier/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/toxic-comments-classifier/</guid>
+      <description>Using a labelled data set comprising of Wikipedia’s Talk page comments, a model was trained to categorize toxic comments into two categories - toxic and threat. This model was then proposed as a means to auto-hide toxic and threat comments from social media platforms (chrome plug-in under development).</description>
+    </item>
+    
+    <item>
+      <title>Trending YouTube Videos Statistics</title>
+      <link>https://aarthishankar.github.io/projects/creations/trending-youtube-video/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/trending-youtube-video/</guid>
+      <description>Performed statistical analysis of trending YouTube videos over time. Used numpy and pandas to pre-process the data, and after analysis used tableau to Visualize the results through a dashboard.</description>
+    </item>
+    
+  </channel>
+</rss>

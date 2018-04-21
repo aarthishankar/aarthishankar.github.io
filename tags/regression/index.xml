@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Regression on Aarthi Shankar - Portfolio</title>
+    <link>https://aarthishankar.github.io/tags/regression/</link>
+    <description>Recent content in Regression on Aarthi Shankar - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aarthishankar.github.io/tags/regression/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Breast Cancer Risk Prediction</title>
+      <link>https://aarthishankar.github.io/projects/creations/breast-cancer-risk-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/breast-cancer-risk-prediction/</guid>
+      <description>Using a labelled data set (Wisconsin breast cancer diagnostic data) of cancer patients and the various attributes of a cell such as radius, texture, area, perimeter etc, a model was trained to predict the possibility of a cell being cancerous using Logistic Regression and K-fold cross validation.</description>
+    </item>
+    
+  </channel>
+</rss>

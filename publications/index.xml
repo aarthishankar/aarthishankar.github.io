@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on Aarthi Shankar - Portfolio</title>
+    <link>https://aarthishankar.github.io/publications/</link>
+    <description>Recent content in Publications on Aarthi Shankar - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 08 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://aarthishankar.github.io/publications/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Redesigning the Application Development Process of Champaign-Urbana Mass Transit District</title>
+      <link>https://aarthishankar.github.io/publications/appdevmasstransit/</link>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/publications/appdevmasstransit/</guid>
+      <description>A paper : Champaign-Urbana Mass Transit District (CUMTD) is a public transportation system that has established itself as a crucial sociotechnical system for the millions of riders commuting within and around the area. To fulfill its commitment of utilising the most progressive technology to support its passengers, CUMTD has been offering open-source developer resources for anyone who would like to improve upon its arsenal of current applications (apps).
+These apps have helped CUMTD’s users better navigate its transit system, but have created some downfalls with their experiences with the system as well.</description>
+    </item>
+    
+    <item>
+      <title>TRANSPR - Transforming Public Accountability through Block-Chain Technology</title>
+      <link>https://aarthishankar.github.io/publications/transpr/</link>
+      <pubDate>Fri, 10 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/publications/transpr/</guid>
+      <description>Eliminating the rampant corruption and improving the pathetic state of public infrastructure building in developing and underdeveloped countries are the primary objectives of this project. We aim to achieve the objective by bringing greater transparency in public sector projects. This project proposes a system to capture all bids for public infrastructure projects on the blockchain. All activities on the project, right from the call for tender, procurement of material, choice of contractor, the status of work will be stored on the blockchain.</description>
+    </item>
+    
+  </channel>
+</rss>

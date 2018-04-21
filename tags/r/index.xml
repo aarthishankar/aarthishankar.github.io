@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on Aarthi Shankar - Portfolio</title>
+    <link>https://aarthishankar.github.io/tags/r/</link>
+    <description>Recent content in R on Aarthi Shankar - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aarthishankar.github.io/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Crime Rate prediction using K-Means</title>
+      <link>https://aarthishankar.github.io/projects/creations/crime-rate-prediction-using-k-means/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/crime-rate-prediction-using-k-means/</guid>
+      <description>Analysed the San Francisco crime database using the K-Means clustering algorithm, to predict the most crime-prone neighbourhoods.</description>
+    </item>
+    
+    <item>
+      <title>Google Earth Visualization for Infant Mortality rate</title>
+      <link>https://aarthishankar.github.io/projects/creations/googleearth/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/googleearth/</guid>
+      <description>Visualizing Infant mortality rate in countries across the world, by processing the data and plotting it on Google Earth.</description>
+    </item>
+    
+  </channel>
+</rss>

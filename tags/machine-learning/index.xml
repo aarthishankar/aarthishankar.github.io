@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Aarthi Shankar - Portfolio</title>
+    <link>https://aarthishankar.github.io/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Aarthi Shankar - Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://aarthishankar.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pedestrian-Vehicle Interaction detection</title>
+      <link>https://aarthishankar.github.io/projects/creations/pedestrian-vehicle-interaction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://aarthishankar.github.io/projects/creations/pedestrian-vehicle-interaction/</guid>
+      <description>Real-time surveillance video from traffic cameras was taken as an input, and was split into frames. An algorithm was designed to extract HOG and GLCM features from the images and classify using Multi-Class Support Vector Machines and Parallel Algorithms. This trained model was used to detect pedestrian-vehicle interaction.</description>
+    </item>
+    
+  </channel>
+</rss>
